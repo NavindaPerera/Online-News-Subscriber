@@ -20,15 +20,3 @@ This project is a starter project created from spring framework. This sample is 
 1. Then to Run the Project, right-click the project again → Run As → Spring Boot App.
 1. Then Test the project in `Postman Testing API`.
 1. Check the records in Robo3T MongoDB GUI.
-
-# Contribution 
-
-This is a sample project. So if you like to add something new for the begineers to learn about something on Spring Framework add them.
-If you like to contribute to the project, do some new features changes or improve written features and put a pull request.
-Those pull request will be reviewed and will be merged.
-
-# Future Enchancements 
-
-1. I will be writing a front-end application from `Reactjs or React Native` to support the written features. 
-1. It will also be a sample project for begineers to learn `Reactjs or React Native`. 
-1. If you add any new features those features will be implemented on the front-end application too.
